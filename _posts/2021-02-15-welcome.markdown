@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Welcome!
 
-Stay tuned to our episodes. In the meanwhile, check us out on Twitter @uncivunsci, Instagram @uncivunsci, and TikTok @uncivusci. 
+Stay tuned to our episodes. In the meanwhile, check us out on Twitter <a href="twitter.com/uncivunsci">@uncivunsci</a>, Instagram <a href="instagram.com/uncivunsci">@uncivunsci</a>, and TikTok <a href="tiktok.com/uncivunsci">@uncivunsci</a>. 
 
 <a href="{{ site.baseurl}}/index.html"><img src="https://archive.org/download/uncivunsci_launch/uncivunsci_launch.png" height="10%" width="50%"></a>
 
