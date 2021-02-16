@@ -4,9 +4,10 @@ title:  "Welcome!"
 date:   2021-02-15 15:00:00
 categories: jekyll update
 ---
-Welcome!
+Welcome to the Uncivil Unscientific!
 
 Stay tuned to our episodes. In the meanwhile, find us using our handle @uncivunsci at <a href="twitter.com/uncivunsci">Twitter</a>, <a href="instagram.com/uncivunsci">Instagram </a>, and <a href="tiktok.com/@uncivunsci">TikTok</a>. 
+
 <p align="center">
     <a href="{{ site.baseurl}}/index.html"><img src="https://archive.org/download/uncivunsci_launch/uncivunsci_launch.png" height="10%" width="50%"></a>
 </p>
