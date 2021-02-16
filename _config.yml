@@ -15,7 +15,7 @@ url: "" # the base hostname & protocol for your site
 twitter_username: uncivunsci
 github_username:  uncivunsci
 
-permalink: /:year/:title.html
+permalink: /:title.html
 
 
 # Build settings
