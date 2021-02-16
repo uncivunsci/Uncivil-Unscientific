@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Welcome to the Uncivil Unscientific!
 
-Stay tuned to our episodes. In the meanwhile, find us using our handle @uncivunsci at [Twitter](twitter.com/uncivunsci), [Instagram](instagram.com/uncivunsci), [TikTok](tiktok.com/@uncivunsci), and [Youtube](https://www.youtube.com/channel/UCa_OHwnv8SHtLJYRGZqUJhg). 
+Stay tuned to our episodes. In the meanwhile, find us using our handle @uncivunsci at [Twitter](twitter.com/uncivunsci), [Instagram](instagram.com/uncivunsci), and [TikTok](tiktok.com/@uncivunsci). Do not forget to check out our [Youtube channel](https://www.youtube.com/channel/UCa_OHwnv8SHtLJYRGZqUJhg). 
 
 <p align="center">
     <a href="{{ site.baseurl}}/index.html"><img src="https://archive.org/download/uncivunsci_launch/uncivunsci_launch.png" height="10%" width="50%"></a>
