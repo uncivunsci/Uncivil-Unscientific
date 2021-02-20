@@ -11,11 +11,15 @@
 		<language>{{ site.lang }}</language>
         <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
-        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:author>Uncivil Unscientific</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
+<itunes:email> uncivunsci@protonmail.com </itunes:email>
+</itunes:owner>
+ 
+	    <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
