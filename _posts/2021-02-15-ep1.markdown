@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EP1 a rebrand already? npj gimmicks?!"
+title:  "EP1 - a rebrand already? npj gimmicks?!"
 date:   2021-02-20 15:00:00
 file: https://archive.org/download/uncivunsciep1/ep0_final_podcast_audio.mp3
 summary: "Ulys & Nebu are already discussing a rebrand... what?! Also, what's the matter with npj?!"
