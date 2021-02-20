@@ -8,14 +8,17 @@
 # Site settings
 title: UN { Civil Scientific }
 email: uncivunsci@protonmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  UN{civil-scientific}. Get in touch: uncivunsci@protonmail.com; IG: UNcivUNsci; TikTok: UNcivUNsci.
+description: "UN { Civil Scientific }. Two scientists on a mission!"
+subtitle: "Your two favorite *** scientists are here to have fun with you!"  
+lang: en-us
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://uncivunsci.github.io" # the base hostname & protocol for your site
 twitter_username: uncivunsci
 github_username:  uncivunsci
 
 permalink: /:title.html
+
+timezone: United States/New York
 
 
 # Build settings
