@@ -8,7 +8,7 @@
 # Site settings
 title: UN { Civil Scientific }
 email: uncivunsci@protonmail.com
-description: "UN { Civil Scientific }. Two scientists on a mission!"
+description: "Two scientists on a mission!"
 subtitle: "Your two favorite *** scientists are here to have fun with you!"  
 lang: en-us
 baseurl: "" # the subpath of your site, e.g. /blog
