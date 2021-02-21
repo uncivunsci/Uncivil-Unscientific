@@ -15,15 +15,3 @@ voices: "Ulys, Nebu"
 ### Uncivil Unscientific, EP 1
 
 Ulys & Nebu are already discussing a rebrand... what?! Also, what's the matter with npj?!
-
-Subscribe: 
-<html>
-<h2 align="center" class="label">
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS feed" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:rss" data-inline="true"></span></a>
-    <a href="" title="Apple Podcasts" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:applepodcasts" data-inline="true"></span></a>
-    <a href="" title="Google Podcasts" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:googlepodcasts" data-inline="true"></span></a>
-    <a href="https://www.stitcher.com/show/un-civil-scientific" title="Stitcher" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:stitcher" data-inline="true"></span></a>
-    <a href="https://podcastaddict.com/podcast/3256016" title="Podcast Addict" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:podcastaddict" data-inline="true"></span></a>
-    <a href="https://pca.st/jx0ls6kx" title="Pocket Casts" target="_blank"> <span href="#" class="iconify" data-width="36px" data-icon="simple-icons:pocketcasts" data-inline="true"></span></a>
-</h2>
-</html>
