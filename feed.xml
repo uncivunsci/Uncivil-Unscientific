@@ -16,12 +16,10 @@
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
-<itunes:email> uncivunsci@protonmail.com </itunes:email>
-</itunes:owner>
+		<itunes:name>{{ site.author }}</itunes:name>
+		<itunes:email> uncivunsci@protonmail.com </itunes:email>
+	</itunes:owner>
  
-	    <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/itunesimg.jpg" />
 		<itunes:category text="Science" />
 		<itunes:category text="Comedy" />
