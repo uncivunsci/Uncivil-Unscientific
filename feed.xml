@@ -35,6 +35,7 @@
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="https://archive.org/download/uncivunsci_launch/uncivunsci_launch.png" />
             <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+	    <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
             <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:duration>{{ post.duration }}</itunes:duration>
