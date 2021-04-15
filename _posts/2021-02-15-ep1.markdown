@@ -3,8 +3,8 @@ layout: post
 title:  "EP1 - a rebrand already & npj gimmicks"
 date:   2021-02-15 15:15:15
 file: https://archive.org/download/uncivunsciep1/ep0_final_podcast_audio.mp3
-summary: "Ulys & Nebu are already discussing a rebrand... Also, what's the matter with npj?!"
-description: "Your two favorite *** scientists are here to make science cooler, but why are we discussing a rebrand already? Have you heard about npj... yep, what's up with that?!"
+summary: "Ulys & Nebu are already discussing a rebrand... Also, what's the matter with npj?! "
+description: "Your two favorite *** scientists are here to make science cooler, but why are we discussing a rebrand already? Have you heard about npj... yep, what's up with that?! "
 duration: "12:25"
 length: "745"
 explicit: "yes"
