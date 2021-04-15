@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "arXiv dumps and automatic grading sh*tshow"
-date:   2021-04-15 15:00:00
+date:   2021-04-15 15:15:15
 file: https://archive.org/download/uncivunsciep2/audio_final.mp3
 summary: "Ulys & Nebu discuss how arxiv.org is not bringing its best, and then look at a meta-abstract paper on automatic grading"
 description: "Your two favorite *** scientists are here to make science cooler, but why is arXiv dot org making sceince uncooler by not bringing its best? Meta-abstract abstracts need to go! Automatic grading need to go too! #NSF"
