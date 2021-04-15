@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "arXiv dumps and automatic grading sh*t show"
-date:   2021-04-14 15:00:00
+date:   2021-04-15 15:00:00
 file: https://archive.org/download/uncivunsciep2/audio_final.mp3
 summary: "Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading"
 duration: "12:25"
