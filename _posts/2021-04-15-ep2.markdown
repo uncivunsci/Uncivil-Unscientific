@@ -1,32 +1,20 @@
 ---
-layout post
-title  EP2 - arXiv dumps and automatic grading sh*t show
-date   2021-02-20 150000
-file https://archive.org/download/uncivunsciep2/audio_final.mp3
-summary Ulys and Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading (arxiv.org/abs/2011.13384)
-duration 1225
-length 745
-explicit yes
-keywords science, nsf, science, uncivil, unscientific, scientific,  comedy
-block no
-voices Ulys, Nebu
+layout: post
+title:  "arXiv dumps and automatic grading sh*t show"
+date:   2021-02-20 15:00:00
+file: https://archive.org/download/uncivunsciep2/audio_final.mp3
+summary: "Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading"
+duration: "12:25"
+length: "745"
+explicit: "yes"
+keywords: "science, nsf, science, uncivil, unscientific, scientific,  comedy"
+block: "no"
+voices: "Ulys, Nebu"
 ---
 ### Uncivil Unscientific, EP 2
 
-Ulys and Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading (arxiv.org/abs/2011.13384)
+Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading (arxiv.org/abs/2011.13384)
 
-div class=video-container
-  p
-    
-iframe width=560 height=315 src=httpswww.youtube.comembede9zrx9WfVtw frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreeniframe
-  p
-div
-
-div
-  p
-!-- iframe src=httpsembed.podcasts.apple.comuspodcastep1-a-rebrand-already-npj-gimmicksid1554680720i=1000509969782&amp;itsct=podcast_box&amp;itscg=30200&amp;theme=dark height=175px frameborder=0 sandbox=allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow=autoplay ; encrypted-media ; style=width 100%; max-width 660px; overflow hidden; border-top-left-radius 10px; border-top-right-radius 10px; border-bottom-right-radius 10px; border-bottom-left-radius 10px; background-color transparent; background-position initial initial; background-repeat initial initial;iframe --
-  p
-div
 
 
 div
