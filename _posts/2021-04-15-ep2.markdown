@@ -17,12 +17,3 @@ Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a met
 
 
 
-div
-  p
-!-- iframe src=httpsopen.spotify.comembed-podcastepisode0GBVOUAH1FSMP0kYvoAmT6 width=100% height=232 frameborder=0 allowtransparency=true allow=encrypted-mediaiframe --
-  p
-div
-
-
-
-
