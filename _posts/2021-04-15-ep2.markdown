@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "arXiv dumps and automatic grading sh*t show"
+title:  "arXiv dumps and automatic grading sh*tshow"
 date:   2021-04-15 15:00:00
 file: https://archive.org/download/uncivunsciep2/audio_final.mp3
 summary: "Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading"
@@ -13,7 +13,7 @@ voices: "Ulys, Nebu"
 ---
 ### Uncivil Unscientific, EP 2
 
-Ulys & Nebu discuss how arxiv.org is not bringing its best, and we look at a meta-abstract paper on automatic grading (arxiv.org/abs/2011.13384)
+Ulys & Nebu discuss how arxiv.org is not bringing its best, and then look at a meta-abstract paper on automatic grading (arxiv.org/abs/2011.13384)
 
 <div class="video-container">
   <p>
