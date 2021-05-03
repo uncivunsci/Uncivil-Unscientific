@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "arXiv dumps and automatic grading sh*tshow"
+title:  "cult de Topo Chico & its radioactive beta particles"
 date:   2021-04-30 15:15:15
 file: https://archive.org/details/uncivunsciep3
-summary: "Nebu & Ulys discuss Ulys's cult #TopoLife by Topo Chico. Before the Cavity Giant Coca Cola bought Topo Chico, they got in hot water for having too many radioactive beta particles in their "mineral" water. Was Ulys having a hard time reading plain words because of #BetaHigh? Nebu wants to join the cult, proclaiming "I just like the drink," insisting on taking Topo Chico to the moon with diamond hands, but only if they disavow the Cavity Giant (which may bring them a bigger class action lawsuit for those extra beta particles anyway). "
-description: "UNcs hosts discuss how Topo Chico and its radioaactive beta particles. "
+summary: "Nebu & Ulys discuss Ulys's cult #TopoLife by Topo Chico. Before the Cavity Giant Coca Cola bought Topo Chico, they got in hot water for having too many radioactive beta particles in their 'mineral' water. Was Ulys having a hard time reading plain words because of #BetaHigh? Nebu wants to join the cult, proclaiming 'I just like the drink,' insisting on taking Topo Chico to the moon with diamond hands, but only if they disavow the Cavity Giant (which may bring them a bigger class action lawsuit for those extra beta particles anyway)."
+description: "UNcs hosts discuss how Topo Chico and its radioaactive beta particles."
 duration: "16:17"
 length: "977"
 explicit: "yes"
@@ -12,6 +12,7 @@ keywords: "science, topochico, science, uncivil, unscientific, scientific,  come
 block: "no"
 voices: "Ulys, Nebu"
 ---
+
 ### Uncivil Unscientific, EP 3
 
 
