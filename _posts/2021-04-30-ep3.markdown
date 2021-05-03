@@ -15,7 +15,7 @@ voices: "Ulys, Nebu"
 ### Uncivil Unscientific, EP 3
 
 
-UNcs hosts discuss Topo Chico and its radioaactive beta particles.
+UNcs hosts discuss Topo Chico and its radioaactive beta particles
 
 <div class="video-container">
   <p>
